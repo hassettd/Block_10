@@ -10,3 +10,8 @@
   align-items: center;
   justify-content: space-evenly;
 }
+
+.body {
+  width: 80;
+  margin: 10vh auto;
+}
